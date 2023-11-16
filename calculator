@@ -44,4 +44,4 @@ while True:
         print("Invalid choice. Please try again.")
         continue
 
-    print("Result:", result)
+    print("Result:", result)  #result
